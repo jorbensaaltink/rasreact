@@ -1,7 +1,7 @@
 # Rasreact
 
 ## Installation
-in terminal use run the following command.
+in terminal run the following commands.
 
 `npm install`
 
